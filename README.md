@@ -15,4 +15,27 @@
 
 
 ## 🎥 Results
+Brain3D extracts rich appearance, semantic and geometric information, presenting a high degree of consistency with the stimuli images.
 ![Results](image/figure3.jpg)
+
+
+## 🎥 Analysis
+Enhanced quality through collaboration between left and right hemispheres
+![Results](image/figure4-1.png)
+Dominance of V1 visual regions  in feature and silhouette processing
+![Results](image/figure5-1.png)
+## 🎥 Diagnosis
+Brain3D can diagnose regions with disorder
+![Results](image/figure6-1.png)
+![Results](image/images7-1.png)
+![Results](image/images8-1.png)
+## Reference
+
+```bibtex
+@article{zhang2024neural,
+  title={Neural 3D decoding for human vision diagnosis},
+  author={Zhang, Li and Yang, Yuankun and Xie, Ziyang and Yuan, Zhiyuan and Feng, Jianfeng and Zhu, Xiatian and Jiang, Yu-Gang},
+  journal={arXiv preprint arXiv:2405.15239},
+  year={2024}
+}
+```
