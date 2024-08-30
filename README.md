@@ -1,12 +1,12 @@
-# Neural 3D decoding for human vision diagnosis
+# Brain3D: Generating 3D Objects from fMRI
 ### [Project page](https://brain-3d.github.io/) | [Paper](https://arxiv.org/abs/2405.15239)
-> [**Neural 3D decoding for human vision diagnosis**](https://arxiv.org/abs/2405.15239),            
-> Li Zhang, Yuankun Yang, Ziyang Xie, Zhiyuan Yuan, Jianfeng Feng, Xiatian Zhu, Yu-Gang Jiang
+> [**Brain3D: Generating 3D Objects from fMRI**](https://arxiv.org/abs/2405.15239),            
+> Yuankun Yang, Li Zhang (Corresponding Author), Ziyang Xie, Zhiyuan Yuan, Jianfeng Feng, Xiatian Zhu, Yu-Gang Jiang
 
 
 ![Model illustration](image/figure1.jpg)
 
-**This repository is the official implementation of "Neural 3D decoding for human vision diagnosis".** Our code will come before publication. 
+**This repository is the official implementation of "Brain3D: Generating 3D Objects from fMRI".** Our code will come before publication. 
 
 
 
@@ -33,8 +33,8 @@ Brain3D can diagnose regions with disorder
 
 ```bibtex
 @article{zhang2024neural,
-  title={Neural 3D decoding for human vision diagnosis},
-  author={Zhang, Li and Yang, Yuankun and Xie, Ziyang and Yuan, Zhiyuan and Feng, Jianfeng and Zhu, Xiatian and Jiang, Yu-Gang},
+  title={Brain3D: Generating 3D Objects from fMRI},
+  author={Yang, Yuankun and Zhang, Li and Xie, Ziyang and Yuan, Zhiyuan and Feng, Jianfeng and Zhu, Xiatian and Jiang, Yu-Gang},
   journal={arXiv preprint arXiv:2405.15239},
   year={2024}
 }
